@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/liujieplay/pethr/blob/master/pethr.ipa</string>
+					<string>https://github.com/liujieplay/pethr/blob/master/Pethr.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/liujieplay/pethr/blob/master/640.png</string>
+					<string>https://github.com/liujieplay/pethr/blob/master/1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/liujieplay/pethr/blob/master/pethr-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>https://github.com/liujieplay/pethr/blob/master/Pethr-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -75,7 +75,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/liujieplay/pethr/blob/master/pethr-iPhone%206%20Plus-etc.ipa</string>
+					<string>https://github.com/liujieplay/pethr/blob/master/Pethr-iPhone%206%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -92,7 +92,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/liujieplay/pethr/blob/master/pethr-iPhone%208-etc.ipa</string>
+					<string>https://github.com/liujieplay/pethr/blob/master/Pethr-iPhone%208-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
